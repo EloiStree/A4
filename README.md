@@ -14,8 +14,9 @@ You can find the page here as WIP:  https://miro.com/app/board/uXjVGUVLhc8=/?sha
 If you think I need to change something.    
 Feel free to ping me in Discord.   
 
-Here is the C# Junior Keyword, 2026/03/19:   
-[A4 Checklist.pdf](https://github.com/user-attachments/files/26116445/A4.Checklist.pdf)  
+Here is the C# Junior Keyword, 2026/03/19:     
+[2026_03_13_A4_Checklist_CSharp.pdf](https://github.com/user-attachments/files/26129925/2026_03_13_A4_Checklist_CSharp.pdf)  
+
 
 Next: 
 - [Godot Code](https://github.com/EloiStree/HelloGodotCode/issues)
